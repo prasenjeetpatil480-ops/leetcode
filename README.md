@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0152-maximum-product-subarray) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
