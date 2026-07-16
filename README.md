@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0875-koko-eating-bananas) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -127,9 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
