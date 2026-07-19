@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0075-sort-colors) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0162-find-peak-element) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0227-basic-calculator-ii) |
 ## Interactive
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0503-next-greater-element-ii](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0735-asteroid-collision) |
