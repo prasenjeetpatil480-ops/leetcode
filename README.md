@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0680-valid-palindrome-ii](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -147,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
