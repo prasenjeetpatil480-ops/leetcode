@@ -1,0 +1,27 @@
+class Solution {
+public:
+    int scoreOfParentheses(string s) {
+
+        stack<int> st;
+        st.push(0);   // Base score
+
+        for(char c : s){
+
+            if(c == '('){
+                st.push(0);
+            }
+            else{
+
+                int v = st.top();
+                st.pop();
+
+                int top = st.top();
+                st.pop();
+
+                st.push(top + max(2 * v, 1));
+            }
+        }
+
+        return st.top();
+    }
+};
