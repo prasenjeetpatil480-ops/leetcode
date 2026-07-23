@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0739-daily-temperatures) |
@@ -160,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0844-backspace-string-compare) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
