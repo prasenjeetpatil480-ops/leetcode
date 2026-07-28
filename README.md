@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0509-fibonacci-number) |
 ## String
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0227-basic-calculator-ii) |
@@ -191,5 +193,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
