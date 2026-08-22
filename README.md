@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0169-majority-element) |
 ## Greedy
 |  |
