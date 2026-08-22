@@ -253,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0136-single-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
