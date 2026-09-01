@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prasenjeetpatil480-ops/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
